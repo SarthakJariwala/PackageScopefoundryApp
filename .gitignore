@@ -47,6 +47,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+.vscode/
 
 # IntelliJ Idea family of suites
 .idea
@@ -64,3 +65,7 @@ windows/
 android/
 linux/
 django/
+
+# Scopefoundry generated data and log
+data/
+log/
